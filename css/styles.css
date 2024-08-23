@@ -81,7 +81,16 @@
 }
 
 .input-error {
-    border: 1px solid red;
+    border: none;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: left;
+    width: 100%;
+    font-weight: normal;
 }
 
 .login-button {
