@@ -9,6 +9,10 @@
     background-color: #2148c0;
 }
 
+.login-noti {
+    display: none;
+}
+
 .has-bg-image {
     overflow: hidden;
     position: relative;
